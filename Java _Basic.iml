@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java_Exception/src/_exception" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_Assert/src/using_Assert" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_Runnable/src/impl_runnable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_Generics/src/java_Generic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_JDBC" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_Stream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_LambdaExpression" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_MethodReference/src/method_reference" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_textStream/src/_textsteams" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

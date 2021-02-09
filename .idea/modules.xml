@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java _Basic.iml" filepath="$PROJECT_DIR$/Java _Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QA/QA.iml" filepath="$PROJECT_DIR$/QA/QA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise/exercise.iml" filepath="$PROJECT_DIR$/exercise/exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_AlgorithmCodeing/java_AlgorithmCodeing.iml" filepath="$PROJECT_DIR$/java_AlgorithmCodeing/java_AlgorithmCodeing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Assert/java_Assert.iml" filepath="$PROJECT_DIR$/java_Assert/java_Assert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Collections/java_Collections.iml" filepath="$PROJECT_DIR$/java_Collections/java_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_EE/java_EE.iml" filepath="$PROJECT_DIR$/java_EE/java_EE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Exception/java_Exception.iml" filepath="$PROJECT_DIR$/java_Exception/java_Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Generics/java_Generics.iml" filepath="$PROJECT_DIR$/java_Generics/java_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_ImageProcessing/java_ImageProcessing.iml" filepath="$PROJECT_DIR$/java_ImageProcessing/java_ImageProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_JDBC/java_JDBC.iml" filepath="$PROJECT_DIR$/java_JDBC/java_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_LambdaExpression/java_LambdaExpression.iml" filepath="$PROJECT_DIR$/java_LambdaExpression/java_LambdaExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_MethodReference/java_MethodReference.iml" filepath="$PROJECT_DIR$/java_MethodReference/java_MethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Runnable/java_Runnable.iml" filepath="$PROJECT_DIR$/java_Runnable/java_Runnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Spring/java_Spring.iml" filepath="$PROJECT_DIR$/java_Spring/java_Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Stream/java_Stream.iml" filepath="$PROJECT_DIR$/java_Stream/java_Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_textStream/java_textStream.iml" filepath="$PROJECT_DIR$/java_textStream/java_textStream.iml" />
+    </modules>
+  </component>
+</project>
